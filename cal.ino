@@ -25,9 +25,10 @@ boolean result = false;
 void setup() {
   lcd.begin(16, 2);
   lcd.setCursor(0, 0);
-  lcd.print("Welcome");
+  lcd.print("Calculator");
+  delay(1000);
   lcd.setCursor(0, 1);
-  lcd.print("Ghavidel");
+  lcd.print("Loading...");
 
   delay(2000);
   lcd.clear();
