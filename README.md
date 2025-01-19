@@ -1,5 +1,7 @@
 # Arduino Simple Calculator
-Simple calculator built with Arduino Uno R3 board
+Simple calculator built with [Arduino Uno Rev3](https://store.arduino.cc/en-de/products/arduino-uno-rev3) board
+
+![Arduino Uno Rev3 image](https://store.arduino.cc/cdn/shop/files/A000066_03.front_643x483.jpg)
 
 ## About this repository
 This repository contains source code, compiled Arduino files (at the `build` directory) and necessary files for simulating the board in Proteus 8 (at the `proteus` directory).
